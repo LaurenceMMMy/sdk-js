@@ -24,8 +24,8 @@ jobs:
         env:
           PAXFUL_OAUTH_HOST: ${{ secrets.PAXFUL_OAUTH_HOST }}
           PAXFUL_DATA_HOST: ${{ secrets.PAXFUL_DATA_HOST }}
-          PAXFUL_CLIENT_ID: ${{ secrets.PAXFUL_CLIENT_ID }}
-          PAXFUL_CLIENT_SECRET: ${{ secrets.PAXFUL_CLIENT_SECRET }}
+          PAXFUL_CLIENT_ID: XkvlBhgTclIWA5hz69vDEMjrkr8pwKpArX7S7YQfhZ943LVD
+          PAXFUL_CLIENT_SECRET: ie3YqZ6LtdQjJ61bBpCRbyEOnDE58ZKX1TxAdYfYOOv76GRi
           SELLER_CLIENT_ID: ${{ secrets.SELLER_CLIENT_ID }}
           SELLER_CLIENT_SECRET: ${{ secrets.SELLER_CLIENT_SECRET }}
           BUYER_CLIENT_ID: ${{ secrets.BUYER_CLIENT_ID }}
